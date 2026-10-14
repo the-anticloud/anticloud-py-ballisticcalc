@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: ARTILLERY_MANUFACTURING/PY_BALLISTICCALC
+# records: 5
+# head: e0bfa7be5964785b8587c6e70f1f406d2d1b2e48bd0281ce997c80c1875876d5
+{"digest": "ce26c2e1a7d07bd4ebf4db9827d92cfc86ec8034fa7deab44c8fd9b9dcca0751", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "3ad176a7445a81cc28bb896e8f558a7acfc7bbb48c8c6a6b99f33c8f859745e9", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:16Z"}
+{"digest": "bffdaee666146ef40e35bb1246525ce3750fd3227c579448e3c8f1a5a25c8cb9", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "7db55fca7e6bb24ff19a152260c5084c613f977c768c0bfe0b185480507b12db", "prev": "ce26c2e1a7d07bd4ebf4db9827d92cfc86ec8034fa7deab44c8fd9b9dcca0751", "seq": 1, "ts": "2026-10-09T05:52:16Z"}
+{"digest": "48151cc0abd01591251ba90da855e60f8bec69536201d827ee8ba0556f30ab9a", "kind": "readme", "path": "README.md", "payload_sha3": "72063671d37bb3774a500f47c0351d739393436647756f7732061d74e1954c9c", "prev": "bffdaee666146ef40e35bb1246525ce3750fd3227c579448e3c8f1a5a25c8cb9", "seq": 2, "ts": "2026-10-09T05:52:16Z"}
+{"digest": "98a79044cde02f5e4e71b619d8f10860ee791ec955fa10df42d2af385960b266", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "77231a0add3ab4650f75e2c866fc76d987d4d91c8c5639c0927c8db747319ffd", "prev": "48151cc0abd01591251ba90da855e60f8bec69536201d827ee8ba0556f30ab9a", "seq": 3, "ts": "2026-10-09T05:52:16Z"}
+{"digest": "e0bfa7be5964785b8587c6e70f1f406d2d1b2e48bd0281ce997c80c1875876d5", "kind": "notice", "path": "NOTICE", "payload_sha3": "61a902150ed8879047f150d6c520d412367325783a1321659630ce985a34b26a", "prev": "98a79044cde02f5e4e71b619d8f10860ee791ec955fa10df42d2af385960b266", "seq": 4, "ts": "2026-10-09T05:52:16Z"}
