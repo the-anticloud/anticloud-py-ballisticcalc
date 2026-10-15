@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "PY_BALLISTICCALC",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\ARTILLERY_MANUFACTURING\\PY_BALLISTICCALC\\UPSTREAM_CLONE",
   "git": {
-   "head": "c317f62a964316e65a9bb1302e6a823d564c3cd5",
-   "url": "https://github.com/YudoTLE/openballistics",
-   "branch": "main",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12"
+   "url": "https://github.com/o-murphy/py-ballisticcalc",
+   "head": "c7a01d44e18ab89ff57c362b12fc84897646d4bf",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/YudoTLE/openballistics"
   }
  },
  "metrics": {
